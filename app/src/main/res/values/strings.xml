@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RelativeLayout</string>
+    <string name="stric">center</string>
+    <string name="stri1">1</string>
+    <string name="stri2">2</string>
+    <string name="stri4">4</string>
+    <string name="stri3">3</string>
 </resources>
